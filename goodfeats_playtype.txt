@@ -1,0 +1,16 @@
+PNR BALL HANDLER - OFFENSIVE
+
+gp
+total pnr possessions
+frequency
+ppp
+pts
+fga
+fg%
+efg%
+ft freq (does this count roll man fouls? i don't think so)
+to freq
+sf freq (shooting foul)
+and one frequency
+score frequency (how often at least one point is scored)
+

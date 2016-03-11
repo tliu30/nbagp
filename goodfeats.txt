@@ -1,0 +1,192 @@
+CATCH AND SHOOT
+
+total minutes (use minutes and GP)
+pts
+fgm(ade) - maybe redundant given fg% & fga?
+fga
+fg%
+3pm(ade) - ditto
+3pa
+3p%
+efg%
+
+DEFENSE
+
+total minutes
+stl
+blk
+dreb
+dfga
+dfg%
+
+DRIVES
+
+total minutes
+drives
+fga
+fg%
+fta
+ft% - is this actually valuable here? (might just be attempts)
+pts - this is a just a function of fg% & ft%, so unclear (pts per game on drives)
+pts% - this might be a function of everything else
+pass
+pass%
+assist
+assist% - is this specific to drives? useless otherwise
+to
+to% - ditto
+pf - is this fouls drawn or committed while driving to the basket? seems to be drawn
+
+PASSING
+
+total minutes
+passes made
+passes received
+assists
+free throw assists
+secondary assist
+potential assist
+assist points created
+assist adj
+assist to pass%
+assist to pass% adj
+
+TOUCHES & POSSESSIONS
+
+total minutes
+touches (total)
+front court touches
+time of possession
+avg sec per touch
+avg drib per touch
+pts per touch - not sure how i like this stat; point guards are always low
+elbow touches
+post touches
+paint touches
+points per elbow touch
+points per post touch
+points per paint touch
+
+PULL UP SHOOTING
+
+total minutes
+points
+fga
+fg%
+3pa
+3p%
+efg%
+
+OFFENSIVE REBOUNDING
+
+total minutes
+oreb
+contested oreb
+unconstensted oreb
+oreb chances
+oreb chance%
+
+DEFENSIVE REBOUNDING
+
+total minutes
+dreb
+contested dreb
+unconstensted dreb
+dreb chances
+dreb chance%
+
+REBOUNDING
+
+total minutes
+reb
+contested reb
+unconstensted reb
+reb chances
+reb chance%
+
+SHOOTING EFFICIENCY
+
+total minutes
+drive pts
+drive fg%
+catch shoot pts
+catch shoot fg%
+pull up pts
+pull up fg%
+paint touch pts
+paint touch fg%
+post touch pts
+post touch fg%
+elbow touch pts
+elbow touch fg%
+efg%
+
+SPEED AND DISTANCE
+
+total minutes
+distance
+distance on offense
+distance on defense
+average speed
+average speed offense
+average speed defense
+
+ELBOW TOUCH
+
+total minutes
+touches (total)
+elbow touches
+fga
+fg%
+fta
+ft%
+pts
+pts% - not sure how this "percentage" works
+pass
+pass%
+ast
+ast%
+to
+to%
+pf
+pf%
+
+POST TOUCH
+
+total minutes
+touches (total)
+post touches
+fga
+fg%
+fta
+ft%
+pts
+pts% - not sure how this "percentage" works
+pass
+pass%
+ast
+ast%
+to
+to%
+pf
+pf%
+
+PAINT TOUCH
+
+total minutes
+touches (total)
+paint touches
+fga
+fg%
+fta
+ft%
+pts
+pts% - not sure how this "percentage" works
+pass
+pass%
+ast
+ast%
+to
+to%
+pf
+pf%

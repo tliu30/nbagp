@@ -1,0 +1,12 @@
+root = http://stats.nba.com/js/data/playtype
+transition = player_Transition.js
+isolation = player_Isolation.js
+pnr = player_PRBallHandler.js
+rollman = player_PRRollMan.js
+postup = player_Postup.js
+spotup = player_Spotup.js
+handoff = player_Handoff.js
+cut = player_Cut.js
+offscreen = player_OffScreen.js
+putback = player_OffRebound.js
+misc = player_Misc.js
